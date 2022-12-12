@@ -1,0 +1,2 @@
+# Bayesian Machine Learning
+ Bayesian Machine Learning project in which PyMC was deployed to use Markov Chain Monte Carlo sampling methods to fit models including; Bayesian Logistic Regression,  										Principle Components Analysis, Hidden Markov Models, and Markov Graphical Models. Using Bayesian methods may make models more robust 										by introducing probability and adressing uncertainty in model predictions. 
